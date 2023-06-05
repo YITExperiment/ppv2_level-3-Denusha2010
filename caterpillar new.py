@@ -1,10 +1,7 @@
 import  turtle as t
 import random as rd
-import  time as ti
-
 
 t.bgcolor('yellow')
-
 
 caterpillar = t.Turtle()
 caterpillar.shape('square')
