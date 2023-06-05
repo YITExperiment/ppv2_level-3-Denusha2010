@@ -1,7 +1,6 @@
 import turtle
 
 from itertools import cycle
-
 colors = cycle(['red','orange','yellow','green','blue','purple'])
 
 def draw_shape(size,angle,shift,shape):
